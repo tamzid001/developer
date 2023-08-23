@@ -1,0 +1,58 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body {
+font-family: 'Kanit', sans-serif;
+}
+/* header start */
+/* HEADER HERE */
+/* header end */
+
+/* body start */
+.container{
+    display: flex;
+}
+.half-width{
+    width: 50%;
+    padding-left: 5%;
+
+}
+.half-width img{
+    width: 90%;
+    margin-top: -40px;
+}
+.half-width h3{
+
+}
+.half-width h1{
+    
+}
+.half-width p{
+    font-weight:lighter;
+    font-size: 14px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+
+}
+.half-width a{
+    text-decoration: none;
+    background-color: black;
+    color:white;
+    padding: 10px 20px;
+    border-radius: 5px;
+    transition: 0.3s all ease-in;
+
+    
+}
+.half-width a:hover{
+    background-color: orange;
+
+}
+.orange{
+   color: orange; 
+}
+.c-margin{
+    margin-top: 95px;
+}
